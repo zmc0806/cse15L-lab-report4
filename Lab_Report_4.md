@@ -1,0 +1,25 @@
+# Lab Report 4 - vim
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-1.jpeg)
+
+First logged into ieng6 without password
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-2.jpeg)
+
+Then clone my fork of repository from github by using the SSH URL
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-3.jpeg)
+
+`cd lab7` and then run the Junit Test.The result is Tests run: 2,Failures: 1
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-4.jpeg)
+
+Now we should edit ListExamples.java.Using command `vim ListExamples.java` to open the java file and then type i to insert and then type esc to quit,last use `:wq` to save and quit vim
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-5.jpeg)
+
+Running the test after editing,now it's all pass.
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-6.jpeg)
+
+Last git add and commit and last git push
