@@ -26,7 +26,9 @@ The result is Tests run: 2,Failures: 1
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-3.jpeg)
 
+### Step 7: Edit the code file ListExamples.java
 
+Key pressed: type `vim ListExamples.java` to enter in vim.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-4.jpeg)
 
