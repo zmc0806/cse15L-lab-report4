@@ -2,6 +2,10 @@
 
 `commands + <Enter>` means hit the enter key after typing the command.
 
+### Log into ieng6:
+
+Keys pressed: Open up a new terminal in vscode and type the command ssh cs15lfa23sa@ieng6-202.ucsd.edu + <Enter>.
+
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-1.jpeg)
 
 First logged into ieng6 without password
