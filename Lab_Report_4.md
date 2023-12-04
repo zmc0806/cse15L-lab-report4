@@ -36,6 +36,10 @@ The bug is located at line 44 so I just type :`44 + <Enter>`.
 
 Now we should edit ListExamples.java.Using command `vim ListExamples.java` to open the java file and then type i to insert and then type esc to quit,last use `:wq` to save and quit vim
 
+### Step 8: Run the tests again 
+
+Key pressed: type bash `test.sh + <Enter>` to run the test.
+
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-5.jpeg)
 
 Running the test after editing,now it's all pass.
