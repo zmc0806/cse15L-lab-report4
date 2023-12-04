@@ -1,5 +1,7 @@
 # Lab Report 4 - vim
 
+`commands + <Enter>` means hit the enter key after typing the command.
+
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-1.jpeg)
 
 First logged into ieng6 without password
