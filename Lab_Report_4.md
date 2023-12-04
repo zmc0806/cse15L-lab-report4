@@ -2,7 +2,7 @@
 
 `commands + <Enter>` means hit the enter key after typing the command.
 
-### Log into ieng6:
+### Step 4:Log into ieng6:
 
 Keys pressed: Open up a new terminal and type the command `ssh cs15lfa23sa@ieng6-202.ucsd.edu + <Enter>`.
 
