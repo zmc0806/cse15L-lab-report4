@@ -30,6 +30,8 @@ The result is Tests run: 2,Failures: 1
 
 Key pressed: type `vim ListExamples.java` to enter in vim.
 
+The bug is located at line 44 so I just type :`44 + <Enter>`.
+
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-4.jpeg)
 
 Now we should edit ListExamples.java.Using command `vim ListExamples.java` to open the java file and then type i to insert and then type esc to quit,last use `:wq` to save and quit vim
