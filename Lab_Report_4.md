@@ -44,6 +44,8 @@ Key pressed: type bash `test.sh + <Enter>` to run the test.
 
 Running the test after editing,now it's all pass.
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-6.jpeg)
+### Step 9: Clone your fork of the repository from your GitHub account
 
-Last git add and commit and last git push
+Key pressed: Type `git add . + <Enter>` to add all the changes. Type `git commit -m "Fix the bug" + <Enter>` to commit the changes and make a comment. Type `git push` to push the request to my github repo.
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-6.jpeg)
