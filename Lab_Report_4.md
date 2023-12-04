@@ -46,6 +46,6 @@ Running the test after editing,now it's all pass.
 
 ### Step 9: Clone your fork of the repository from your GitHub account
 
-Key pressed: Type `git add . + <Enter>` to add all the changes. Type `git commit -m "Fix the bug" + <Enter>` to commit the changes and make a comment. Type `git push` to push the request to my github repo.
+Key pressed: Type `git add . + <Enter>` to add all the changes. Type `git commit -m "edited index1 to 2" + <Enter>` to commit the changes and make a comment. Type `git push` to push the request to my github repo.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-6.jpeg)
