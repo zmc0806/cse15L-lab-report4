@@ -10,11 +10,11 @@ Keys pressed: Open up a new terminal and type the command `ssh cs15lfa23sa@ieng6
 
 First logged into ieng6 without password
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-2.jpeg)
-
 ### Step 5: Clone your fork of the repository from your GitHub account (using the SSH URL):
 
-Key pressed: git clone the ssh URL of the provided GitHub repo by using git clone git@github.com:Sam110120/lab7.git + <Enter>.
+Key pressed: git clone the ssh URL of the provided GitHub repo by using `git clone git@github.com:zmc0806/lab7.git + <Enter>`.
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-2.jpeg)
 
 Then clone my fork of repository from github by using the SSH URL
 
