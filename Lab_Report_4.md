@@ -18,13 +18,15 @@ Key pressed: git clone the ssh URL of the provided GitHub repo by using `git clo
 
 Then clone my fork of repository from github by using the SSH URL
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-3.jpeg)
-
 ### Step 6: Run the tests
 
 Key pressed: type `cd lab7/ + <Enter>` into the lab7 file, then check the files by typing `ls + <Enter>`. Run the bash script by bash `test.sh + <Enter>`
 
 The result is Tests run: 2,Failures: 1
+
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-3.jpeg)
+
+
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report4/main/report5-4.jpeg)
 
